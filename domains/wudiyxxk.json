@@ -1,1 +1,12 @@
-
+{
+  "owner": {
+    "username": "wudiyxxk"
+    "email": "2785821044@gmail.com"
+  },
+    "record": {
+    "NS": [
+      "carrera.ns.cloudflare.com",
+      "tanner.ns.cloudflare.com"
+    ]
+  }
+}
